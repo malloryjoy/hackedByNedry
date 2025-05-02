@@ -101,7 +101,7 @@ This project recreates the infamous "hacking" error sequence as seen in the icon
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project was created with Javascript, available with classic Vanilla and three associated Javascript frameworks. Use it for your next dinner party, Super Bowl, or any friendly gathering! 
+Try out different commands to turn the power back on in Jurassic Park. If you can. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
