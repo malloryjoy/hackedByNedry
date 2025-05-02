@@ -176,7 +176,7 @@ Project Link: [GitHub](https://github.com/malloryjoy/hackedbynedry)
 [Python-url]: https://www.python.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[HTML.io]: https://img.shields.io/badge/HTML-1f75fe
+[HTML.io]: https://img.shields.io/badge/html5-black?logo=html5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS.io]: https://img.shields.io/badge/CSS-991ae8?style=for-the-badge&logo=CSS&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
