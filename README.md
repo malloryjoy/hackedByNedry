@@ -112,8 +112,8 @@ Try out different commands to turn the power back on in Jurassic Park. If you ca
 ## Roadmap
 
 - [x] Create Basic Landing Page (HTML/CSS)
-- [] Create input "loop" that will accept "key phrases" three times (Python)
-- [] Create trigger feature that will unleash the chaos after loop completes (Python)
+- [ ] Create input "loop" that will accept "key phrases" three times (Python)
+- [ ] Create trigger feature that will unleash the chaos after loop completes (Python)
     - [ ] YOU DIDN'T SAY THE MAGIC WORD for 800 lines 
     - [ ] Open pop up with "honeypot" video
     - [ ] Page to display charcuterie board
