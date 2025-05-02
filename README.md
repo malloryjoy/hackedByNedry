@@ -112,13 +112,8 @@ This project was created with Javascript, available with classic Vanilla and thr
 ## Roadmap
 
 - [x] Create Basic Landing Page (HTML/CSS)
-<<<<<<< HEAD
 - [ ] Create input "loop" that will accept "key phrases" three times (Python)
 - [ ] Create trigger feature that will unleash the chaos after loop completes (Python)
-=======
-- [] Create input "loop" that will accept "key phrases" three times (Python)
-- [] Create trigger feature that will unleash the chaos after loop completes (Python)
->>>>>>> b4bba72 (Initial commit)
     - [ ] YOU DIDN'T SAY THE MAGIC WORD for 800 lines 
     - [ ] Open pop up with "honeypot" video
     - [ ] Page to display charcuterie board
