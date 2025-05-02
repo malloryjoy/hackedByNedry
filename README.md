@@ -101,7 +101,7 @@ This project recreates the infamous "hacking" error sequence as seen in the icon
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project was created with Javascript, available with classic Vanilla and three associated Javascript frameworks. Use it for your next dinner party, Super Bowl, or any friendly gathering! 
+Try out different commands to turn the power back on in Jurassic Park. If you can. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,8 +112,8 @@ This project was created with Javascript, available with classic Vanilla and thr
 ## Roadmap
 
 - [x] Create Basic Landing Page (HTML/CSS)
-- [] Create input "loop" that will accept "key phrases" three times (Python)
-- [] Create trigger feature that will unleash the chaos after loop completes (Python)
+- [ ] Create input "loop" that will accept "key phrases" three times (Python)
+- [ ] Create trigger feature that will unleash the chaos after loop completes (Python)
     - [ ] YOU DIDN'T SAY THE MAGIC WORD for 800 lines 
     - [ ] Open pop up with "honeypot" video
     - [ ] Page to display charcuterie board
