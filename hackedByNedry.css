@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url("https://use.typekit.net/wpu2spg.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    background-color: #000;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    font-size: .85em;
+    line-height: 1.5;
+}
+
+input{
+    caret-color: #7bf701;
+    border: 0px;
+    border-color: #000;
+    background-color: #000;
+    color: #fff;
+    font-family: "Press Start 2P", system-ui;
+    font-size: .7em;
+}
