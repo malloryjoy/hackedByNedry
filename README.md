@@ -116,7 +116,7 @@ Try out different commands to turn the power back on in Jurassic Park. If you ca
 - [ ] Create trigger feature that will unleash the chaos after loop completes (Python)
     - [ ] YOU DIDN'T SAY THE MAGIC WORD for 800 lines 
     - [ ] Open pop up with "honeypot" video
-    - [ ] Page to display charcuterie board
+    - [ ] Add "Click to Repair" link and it's just opening an image that says "YOU DID IT!" over that one perfect shot from the first film
 - [ ] Recreate steps 2 + 3 using Java
  
 
