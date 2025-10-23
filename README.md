@@ -170,13 +170,13 @@ Project Link: [GitHub](https://github.com/malloryjoy/hackedbynedry)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/malloryjoy/
 [product-screenshot]: screenshot.png
-[React.io]: https://img.shields.io/badge/React-ff0000?style=for-the-badge&logo=react&logoColor=white
-[React-URL]: https://react.dev/learn
 [Typescript.io]: https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-URL]: https://www.typescriptlang.org/docs/
-[HTML.io]: https://img.shields.io/badge/HTML5-ff0000?style=for-the-badge&logo=html5&logoColor=white
+[React.io]: https://img.shields.io/badge/React-ff0000?style=for-the-badge&logo=react&logoColor=white
+[React-URL]: https://react.dev/learn
+[HTML.io]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS.io]: https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white
+[CSS.io]: https://img.shields.io/badge/Tailwind_CSS-ff0000?style=for-the-badge&logo=tailwindcss&logoColor=white
 [CSS-url]: https://tailwindcss.com/docs/installation/tailwind-cli
 
 
