@@ -85,11 +85,11 @@ This project recreates the infamous "hacking" error sequence as seen in the icon
 
 ### Built With
 
-* [![Java][Java.java]][Java-url]
-* [![Python][Python.py]][Python-url]
-* [![Angular][Angular.io]][Angular-url]
+
+* [![Typescript][Typescript.io]][Typescript-url]
+* [![React][React.io]][React-url]
 * [![HTML][HTML.io]][HTML-url]
-* [![CSS][CSS.io]][CSS-url]
+* [![Tailwind CSS][CSS.io]][CSS-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -111,17 +111,17 @@ Try out different commands to turn the power back on in Jurassic Park. If you ca
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Create Basic Landing Page (HTML/CSS)
-- [ ] Create input "loop" that will accept "key phrases" three times (Python)
-- [ ] Create trigger feature that will unleash the chaos after loop completes (Python)
+- [x] Create Basic Landing Page (HTML/Tailwind)
+- [ ] Create input "loop" that will accept "key phrases" three times (React/Typescript)
+- [ ] Create trigger feature that will unleash the chaos after loop completes (React/Typescript)
     - [ ] YOU DIDN'T SAY THE MAGIC WORD for 800 lines 
     - [ ] Open pop up with "honeypot" video
     - [ ] Add "Click to Repair" link and it's just opening an image that says "YOU DID IT!" over that one perfect shot from the first film
-- [ ] Recreate steps 2 + 3 using Java
+
  
 
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/malloryjoy/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- NOTES -->
 ## Notes
 
-Similar to my Charcuterie Board generator, it is my intention to showcase my understanding of both Java and Python with this project, allowing users to select which language they would like to use prior to demo-ing the project.  
+Ideally, this project will display the iconic "Magic Word" sequence from "Jurassic Park." 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,14 +170,13 @@ Project Link: [GitHub](https://github.com/malloryjoy/hackedbynedry)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/malloryjoy/
 [product-screenshot]: screenshot.png
-[Java.java]: https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=red
-[Java-url]: https://www.java.com/en/
-[Python.py]: https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=Python&logoColor=black
-[Python-url]: https://www.python.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[HTML.io]: https://img.shields.io/badge/html5-black?logo=html5
+[React.io]: https://img.shields.io/badge/React-ff0000?style=for-the-badge&logo=react&logoColor=white
+[React-URL]: https://react.dev/learn
+[Typescript.io]: https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript-URL]: https://www.typescriptlang.org/docs/
+[HTML.io]: https://img.shields.io/badge/HTML5-ff0000?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS.io]: https://img.shields.io/badge/CSS-991ae8?style=for-the-badge&logo=CSS&logoColor=white
-[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[CSS.io]: https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white
+[CSS-url]: https://tailwindcss.com/docs/installation/tailwind-cli
+
 
